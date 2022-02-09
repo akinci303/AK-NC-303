@@ -1,2 +1,1 @@
-# AK-NC-303
-AKCNS
+loadstring(game:GetObjects("rbxassetid://5812737894")[1].Source)()
